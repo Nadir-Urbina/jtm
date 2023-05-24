@@ -1,2 +1,1 @@
-# jtm
-jtm website code
+TinDog Starting Files
